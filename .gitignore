@@ -111,5 +111,3 @@ dmypy.json
 # Streamlit specific
 .streamlit/
 
-# (Optional) Ignore model files if they are large or sensitive:
-model/*.pkl

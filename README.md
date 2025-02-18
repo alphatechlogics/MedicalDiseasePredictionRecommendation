@@ -10,10 +10,6 @@ Welcome to the **Medical Disease Prediction & Recommendation System**! This proj
 - [Features](#features-)
 - [Dataset](#dataset-)
 - [Installation](#installation-)
-- [Usage](#usage-)
-- [File Structure](#file-structure-)
-- [Credits & Acknowledgements](#credits--acknowledgements-)
-- [License](#license-)
 
 ---
 

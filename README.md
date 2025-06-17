@@ -2,6 +2,8 @@
 
 Welcome to the **Medical Disease Prediction & Recommendation System**! This project leverages machine learning to predict diseases based on user-input symptoms and then provides recommendations for precautions, medications, diet, and workouts. The interactive web app is built using Streamlit with an attractive, custom UI.
 
+![](https://raw.github.com/alphatechlogics/MedicalDiseasePredictionRecommendation/b837dd9ac6606005a4b15aa5463c836dbf124652/Screenshot%202025-06-17%20232440.png)
+
 ---
 
 ## Table of Contents
